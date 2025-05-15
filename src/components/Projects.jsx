@@ -84,7 +84,7 @@ export default function Projects() {
             key={index}
             className="p-6 rounded-xl shadow-lg bg-white dark:bg-slate-800 
            transition-shadow duration-300 
-           hover:shadow-xl dark:hover:shadow-[0_0_20px_4px_rgba(251,146,60,0.8)]"
+           hover:shadow-2xl dark:hover:shadow-[0_0_20px_4px_rgba(251,146,60,0.8)]"
             data-aos="fade-up"
           >
             <h3 className="text-xl font-semibold mb-2">{proj.name}</h3>
