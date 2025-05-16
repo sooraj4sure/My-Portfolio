@@ -23,6 +23,11 @@ const projects = [
     link: "https://rock-paper-scissor-one-drab.vercel.app/",
   },
   {
+    name: "WeMeet",
+    description: "WeMeet is a MERN stack video calling app using Socket.IO and WebRTC for real-time peer-to-peer communication. Create or join rooms for fast, secure, and smooth video calls with ease",
+    link: "https://we-meet-video-calling-app.vercel.app/",
+  },
+  {
     name: "Weather App",
     description: "A real-time weather app using open A dynamic weather application built with React. It fetches real-time weather data from an external API and displays location-based forecasts, temperature, and weather conditions. The app features a clean, responsive UI with smooth state handling and error management.Weather API.",
     link: "https://weather-mrriu5d1v-soorajs-projects-e8a2060f.vercel.app/",
@@ -67,11 +72,7 @@ const projects = [
     description: "A full-stack MERN platform inspired by Airbnb for discovering, listing, and renting unique stays. Features user authentication, property browsing, detailed listings, and a responsive, user-friendly interface.",
     link: "https://github.com/sooraj4sure/Havenly-Stays--MERN-project.git",
   },
-  {
-    name: "WeMeet",
-    description: "WeMeet is a MERN stack video calling app using Socket.IO and WebRTC for real-time peer-to-peer communication. Create or join rooms for fast, secure, and smooth video calls with ease",
-    link: "https://github.com/sooraj4sure/WeMeet-Video-calling-app-.git",
-  },
+  
 ];
 
 export default function Projects() {
