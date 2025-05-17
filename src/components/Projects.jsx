@@ -23,22 +23,24 @@ const projects = [
     link: "https://rock-paper-scissor-one-drab.vercel.app/",
   },
   {
+    name: "My Portfolio (This)",
+    description: "A personal portfolio website built with React showcasing projects, skills, and contact information with a clean, responsive design and smooth navigation.",
+    link: "https://sooraj-khaki.vercel.app/",
+  },
+
+  {
     name: "WeMeet",
     description: "WeMeet is a MERN stack video calling app using Socket.IO and WebRTC for real-time peer-to-peer communication. Create or join rooms for fast, secure, and smooth video calls with ease",
     link: "https://we-meet-video-calling-app.vercel.app/",
   },
+  
   {
     name: "Weather App",
     description: "A real-time weather app using open A dynamic weather application built with React. It fetches real-time weather data from an external API and displays location-based forecasts, temperature, and weather conditions. The app features a clean, responsive UI with smooth state handling and error management.Weather API.",
     link: "https://weather-mrriu5d1v-soorajs-projects-e8a2060f.vercel.app/",
   },
  
-  {
-    name: "My Portfolio (This)",
-    description: "A personal portfolio website built with React showcasing projects, skills, and contact information with a clean, responsive design and smooth navigation.",
-    link: "https://github.com/yourusername/weather-app",
-  },
-
+  
   {
     name: "SoftSell (UI)",
     description: "Used Software Marketplace ( Landing Page )A modern, responsive landing page built with React for a platform that promotes the selling of used software licenses. Designed with a clean layout, engaging call-to-action sections, and smooth component-based structure to showcase key features and value propositions.",
