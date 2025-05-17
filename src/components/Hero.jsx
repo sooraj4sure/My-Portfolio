@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import devImg from "../assets/luffy.png"; // Ensure the image path is correct
+import devImg from "../assets/luffy.png"; 
 
 export default function Hero() {
   return (
@@ -17,7 +17,7 @@ export default function Hero() {
             <span className="text-blue-600 dark:text-blue-400 font-bold">
               WEBSITE DEVELOPER
             </span> <br />
-            <span className="text-red-600 dark:text-red-400 text-xs font-extralight">
+            <span className="text-red-500 font-bold dark:text-orange-300 text-xs dark:font-light">
              "Tried to be Spider-Man, now I weave websites not webs"
             </span>
           </h2>
