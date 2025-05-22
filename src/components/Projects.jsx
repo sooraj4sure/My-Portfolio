@@ -33,6 +33,11 @@ const projects = [
     description: "WeMeet is a MERN stack video calling app using Socket.IO and WebRTC for real-time peer-to-peer communication. Create or join rooms for fast, secure, and smooth video calls with ease",
     link: "https://we-meet-video-calling-app.vercel.app/",
   },
+  {
+    name: "Satvic Movement",
+    description: "A responsive web page built with HTML, CSS, and JavaScript, replicating the official Satvic Movement's 21-Day Yoga Sadhana page. It includes a custom hero section, mobile-friendly hamburger menu",
+    link: "https://satvic-movement-three.vercel.app/",
+  },
   
   {
     name: "Weather App",
