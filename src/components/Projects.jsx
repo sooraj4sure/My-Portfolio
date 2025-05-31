@@ -6,6 +6,12 @@ AOS.init();
 
 const projects = [
   {
+    name: "Portfolio 2",
+    description:
+      "personal portfolio website built with React showcasing projects, skills, and contact information with a clean, responsive design and smooth navigation.",
+    link: "https://sooraj4sure.onrender.com/",
+  },
+  {
     name: "Random Joke (Joker)",
     description:
       "A lightweight web app built with HTML, CSS, and JavaScript that fetches and displays random jokes from a public API. Features a clean UI, instant joke refresh on button click, and smooth API integration to keep users entertained with every interaction",
