@@ -6,6 +6,11 @@ AOS.init();
 
 const projects = [
   {
+    name: "Anvi.",
+    description: "MERN stack, Jewellery shop ",
+    link: "https://anvi-frontend.vercel.app/",
+  },
+  {
     name: "Portfolio 2",
     description:
       "personal portfolio website built with React showcasing projects, skills, and contact information with a clean, responsive design and smooth navigation.",
@@ -23,69 +28,78 @@ const projects = [
       "A classic 2-player game built with HTML, CSS, and JavaScript. Features smooth turn-based interaction, real-time win/draw detection, and a responsive layout. Designed to showcase core logic implementation and clean UI without external libraries",
     link: "https://tic-tac-toe-ten-phi-32.vercel.app/",
   },
-   {
+  {
     name: "Rock-Paper-Scissor Game",
-    description: "A fun and interactive game built with HTML, CSS, and JavaScript. Allows users to play against the computer with randomized choices, real-time score tracking, and responsive visual feedback. A simple project showcasing core JavaScript logic and DOM manipulation",
+    description:
+      "A fun and interactive game built with HTML, CSS, and JavaScript. Allows users to play against the computer with randomized choices, real-time score tracking, and responsive visual feedback. A simple project showcasing core JavaScript logic and DOM manipulation",
     link: "https://rock-paper-scissor-one-drab.vercel.app/",
   },
   {
     name: "My Portfolio (This)",
-    description: "A personal portfolio website built with React showcasing projects, skills, and contact information with a clean, responsive design and smooth navigation.",
+    description:
+      "A personal portfolio website built with React showcasing projects, skills, and contact information with a clean, responsive design and smooth navigation.",
     link: "https://sooraj-khaki.vercel.app/",
   },
 
   {
     name: "WeMeet",
-    description: "WeMeet is a MERN stack video calling app using Socket.IO and WebRTC for real-time peer-to-peer communication. Create or join rooms for fast, secure, and smooth video calls with ease",
+    description:
+      "WeMeet is a MERN stack video calling app using Socket.IO and WebRTC for real-time peer-to-peer communication. Create or join rooms for fast, secure, and smooth video calls with ease",
     link: "https://we-meet-video-calling-app.vercel.app/",
   },
   {
     name: "Satvic Movement",
-    description: "A responsive web page built with HTML, CSS, and JavaScript, replicating the official Satvic Movement's 21-Day Yoga Sadhana page. It includes a custom hero section, mobile-friendly hamburger menu",
+    description:
+      "A responsive web page built with HTML, CSS, and JavaScript, replicating the official Satvic Movement's 21-Day Yoga Sadhana page. It includes a custom hero section, mobile-friendly hamburger menu",
     link: "https://satvic-movement-three.vercel.app/",
   },
-  
+
   {
     name: "Weather App",
-    description: "A real-time weather app using open A dynamic weather application built with React. It fetches real-time weather data from an external API and displays location-based forecasts, temperature, and weather conditions. The app features a clean, responsive UI with smooth state handling and error management.Weather API.",
+    description:
+      "A real-time weather app using open A dynamic weather application built with React. It fetches real-time weather data from an external API and displays location-based forecasts, temperature, and weather conditions. The app features a clean, responsive UI with smooth state handling and error management.Weather API.",
     link: "https://weather-mrriu5d1v-soorajs-projects-e8a2060f.vercel.app/",
   },
- 
-  
+
   {
     name: "SoftSell (UI)",
-    description: "Used Software Marketplace ( Landing Page )A modern, responsive landing page built with React for a platform that promotes the selling of used software licenses. Designed with a clean layout, engaging call-to-action sections, and smooth component-based structure to showcase key features and value propositions.",
+    description:
+      "Used Software Marketplace ( Landing Page )A modern, responsive landing page built with React for a platform that promotes the selling of used software licenses. Designed with a clean layout, engaging call-to-action sections, and smooth component-based structure to showcase key features and value propositions.",
     link: "https://softsell-7isf.vercel.app/",
   },
-    {
+  {
     name: "Student Dashboard",
-    description: "A React-based dashboard featuring Firebase authentication for secure login, user profile management, and real-time student data display. Designed for ease of use and smooth performance.",
+    description:
+      "A React-based dashboard featuring Firebase authentication for secure login, user profile management, and real-time student data display. Designed for ease of use and smooth performance.",
     link: "https://student-dashboard-yxxf.vercel.app/",
   },
   {
     name: "Spotify Landing Page (Desktop)",
-    description: "A visually appealing, Not Responsive landing page inspired by Spotify, built with React. It replicates the look and feel of Spotify’s official homepage with smooth layouts, reusable components, and interactive sections — perfect for showcasing frontend design and React skills.",
+    description:
+      "A visually appealing, Not Responsive landing page inspired by Spotify, built with React. It replicates the look and feel of Spotify’s official homepage with smooth layouts, reusable components, and interactive sections — perfect for showcasing frontend design and React skills.",
     link: "https://spotify-landing-page-gamma.vercel.app/",
   },
- 
+
   {
     name: "User Dashboard (Avatars)",
-    description: "A responsive React dashboard with user authentication, profile management, and real-time data display. Built for a smooth and clean user experience.",
+    description:
+      "A responsive React dashboard with user authentication, profile management, and real-time data display. Built for a smooth and clean user experience.",
     link: "https://user-dashboard-nine-smoky.vercel.app/",
   },
-  
+
   {
     name: "Employee Management System",
-    description: "A full-stack (Local Data) application for managing employee works, including adding, editing, and deleting employee works. Features user authentication, role-based access, and a clean, Desktop dashboard for efficient HR management. Credentials -> admin@me.com Password(123), employee2@example.com Password(123)",
+    description:
+      "A full-stack (Local Data) application for managing employee works, including adding, editing, and deleting employee works. Features user authentication, role-based access, and a clean, Desktop dashboard for efficient HR management. Credentials -> admin@me.com Password(123), employee2@example.com Password(123)",
     link: "https://employee-management-system-sigma-nine.vercel.app/",
   },
 
   {
     name: "Heavenly Stays",
-    description: "A full-stack MERN platform inspired by Airbnb for discovering, listing, and renting unique stays. Features user authentication, property browsing, detailed listings, and a responsive, user-friendly interface.",
+    description:
+      "A full-stack MERN platform inspired by Airbnb for discovering, listing, and renting unique stays. Features user authentication, property browsing, detailed listings, and a responsive, user-friendly interface.",
     link: "https://github.com/sooraj4sure/Havenly-Stays--MERN-project.git",
   },
-  
 ];
 
 export default function Projects() {
